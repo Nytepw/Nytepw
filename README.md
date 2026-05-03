@@ -1,4 +1,4 @@
-# Dayz-Radar---Kernel-Level-Tool-
+# Dayz-Radar---Kernel-Level-Hack
 
 <!-- Portable repo: keep this file + logos/ at repo root. Rename to README.md for GitHub. Palette: neon #9D00FF, dark #050505. -->
 
